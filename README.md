@@ -1,4 +1,4 @@
-# WEB-DESGIN FOR EWAL ESTATE WEBPAGE
+# WEB-DESGIN FOR REAL ESTATE WEBPAGE
 
 # Description
 The objective of this project is to connect home buyers to sellers and tenants to renters directly to facilitate services including home trading and residential leasing without the intervention of local real estate agency as mostly they add no value to the transactions but substantially cost for both parties.
