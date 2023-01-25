@@ -54,8 +54,4 @@ Featured Apartments:
 
 Apartment Plans:
 
-
-
  
-
-  
