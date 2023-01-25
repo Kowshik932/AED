@@ -1,11 +1,9 @@
 # WEB-DESGIN FOR REAL ESTATE WEBPAGE
 
 # Description
-The objective of this project is to connect home buyers to sellers and tenants to renters directly to facilitate services including home trading and residential leasing without the intervention of local real estate agency as mostly they add no value to the transactions but substantially cost for both parties.
 
-This web application is a third-party real estate broker platform providing real-time real estate listings and services to promote transparent home trading and leasing transactions for home buyers, sellers, renters, and tenants.
 
-# HTML Elements used in the project
+HTML Elements used in the Assignment
 
 Home Page:
 * nav Tag - It defines a set of navigation links.
@@ -34,11 +32,6 @@ Apartment types:
 * h2 Tag - It is used to define HTML headings
 * radio button - These are normally presented in radio groups. Only one radio button in a group can be selected at the same time.
 
-# Website Includes
-    1. Property Listing
-    2. Buy,Sell Or Rent Property
-    3. Contact Info
-    4. Responsive Design
  
 # User Roles
     Home Buyer
